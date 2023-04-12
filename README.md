@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![jarmywang的Github状态](https://github-readme-stats.vercel.app/api?username=jarmywang&theme=onedark&show_icons=true)
+
